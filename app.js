@@ -6,6 +6,8 @@ const rutas = require('./routers/main');
 
 app.use('/', rutas);
 
-app.listen(3000, ()=> {
+let port = process.env.PORT || 3000;
+
+app.listen(port, ()=> {
     console.log('Server running');
 });
