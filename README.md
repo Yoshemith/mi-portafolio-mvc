@@ -1,5 +1,5 @@
 # MVC architectural pattern Practice with Express
-This a practice with MVC for a study project.
+This is a practice with MVC for a study project.
 
 Developed with HTML, CSS, JS, Express & NodeJs.
 
