@@ -11,5 +11,3 @@ MVC consists of three parts: Model, View, Controller.
 * **View:** It displays the information from the model to the user. 
 
 * **Controller:** It controls the data flow into a model object and updates the view whenever data changes.
-
-> Developed during a DigitalHouse Course.
